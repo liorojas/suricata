@@ -1,0 +1,21 @@
+body *{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.color-rosado{
+    background-color: #E83E8C;
+}
+.color-verde{
+    background-color: #17A2B8;
+}
+#cc {
+    color:white;
+}
+#cc i {
+    margin-left: 5px
+}
+footer img{
+    width: 5%;
+}
